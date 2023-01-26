@@ -1,0 +1,15 @@
+.App {
+  /* display: flex; */
+  /* justify-content: space-around; */
+  /* height: 100vh; */
+  /* align-items: center; */
+}
+
+.box {
+  width: 40vw;
+  height: 50vh;
+}
+
+.controls {
+  width: 40vw;
+}
